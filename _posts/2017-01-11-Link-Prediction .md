@@ -8,7 +8,7 @@ share: true
 ---
 
 
-#### Competition Detail
+Competition Detail
 
 > AXA Data Science Winter School : Tsinghua, Renmin and Ecole Polytechnique
 >
