@@ -35,22 +35,37 @@ Competition Detail
 For this problem we extract **three kinds of features**
 
 1. Text Feature
-   -  LSI Vector (used for calculating similarity)
-   -  TFIDF Vector (used for calculating similarity)
-   -  Common Words
+
+    LSI Vector (used for calculating similarity)
+
+    TFIDF Vector (used for calculating similarity)
+
+    Common Words
 2. Network Feature
-   -  Degree
-   -  Between Centrality 
-   -  PageRank
-   -  Common  Neighbors
-   -  Paper Community Category
+
+    Degree
+    
+    Between Centrality 
+
+    PageRank
+
+    Common  Neighbors
+
+    Paper Community Category
+
 3. Author and Journal Feature
-   -  Common Author
-   -  Delta Year
-   -  author_paper_year_mean
-   -  author_paper_num_year
-   -  journal_paper_num_year
-   -  journal_class
+
+    Common Author
+
+    Delta Year
+
+    author_paper_year_mean
+
+    author_paper_num_year
+
+    journal_paper_num_year
+
+    journal_class
 
 After try several classification algorithm , we choose **Random Forest** to do prediction.
 
