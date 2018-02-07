@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /zjcode
+baseurl: 
 
 # Site live URL
 url: http://zjcode.github.io
