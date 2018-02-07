@@ -31,8 +31,8 @@ harmony:
   # Profile links, leave blank to ignore
   social: 
     github: zjcode
-    twitter: zhangjun
-    facebook: zhangjun
+    #twitter: zhangjun
+    #facebook: zhangjun
   # Toggle disclaimer in footer
   show_disclaimer: true
 
