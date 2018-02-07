@@ -46,7 +46,7 @@ I am a student from School of Information,Renmin University of China. I am famil
 
 - Link Prediction (Kaggle) 
 	
-	In this task , I used text mining , complex network , traditional machine learning algorithm and neural network model to predict the citation relation between papers. [Data Science Winter School Class Project  | Tsinghua, Renmin and Ecole Polytechnique] 
+	In this task , I used text mining , complex network , traditional machine learning algorithm and neural network model to predict the citation relation between papers. [Data Science Winter School Class Project（Tsinghua, Renmin and Ecole Polytechnique）
 
 
 ### Paper
@@ -59,7 +59,6 @@ I am a student from School of Information,Renmin University of China. I am famil
 
 Find me on [Github][github] or just say `Hello` at 
 [zhangjun310@live.com](zhangjun310@live.com).
-
 
 
 [github]: https://github.com/ZJCODE
