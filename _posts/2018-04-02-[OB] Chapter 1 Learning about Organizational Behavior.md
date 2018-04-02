@@ -129,7 +129,7 @@ The change competency includes the knowledge, skills, and abilities to recognize
 
 > Leadership is the process of developing ideas and a vision, living by values that support those ideas and that vision, influencing others to embrace them in their own behaviors, and making hard decisions about human and other resources. Leadership includes the seven foundation competencies developed throughout this book and more. In contrast, management focuses on looking inward, improving the present, tight controls, direct- ing, coordinating, efficiency, and the like. Both leaders and managers must accept three key functions to be effective: authority, responsibility, and accountability.
 
-在剩下的部分，本章对competency的7个角度进行了逐个的分析探讨，具体的7个放下如下，详细的定义可见Concepts部分
+在剩下的部分，本章对competency的7个角度进行了逐个的分析探讨，具体的7个角度如下，详细的定义可见Concepts部分
 
 1. Ethics Competency
 2. Self Competency
