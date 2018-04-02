@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-# Chapter 1  Learning about Organizational Behavior
+
 
 ### Concepts
 
