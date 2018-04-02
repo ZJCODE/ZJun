@@ -1,13 +1,13 @@
 ---
 layout: post
-title: [OB]  Chapter 1  Learning about Organizational Behavior
+title: Chapter 1  Learning about Organizational Behavior
 date: 2018-04-02
-tags: [Organizational behavior]
+tags: [Organizational Behavior]
 comments: true
 share: true
 ---
 
-# [OB]  Chapter 1  Learning about Organizational Behavior
+# Chapter 1  Learning about Organizational Behavior
 
 ### Concepts
 
