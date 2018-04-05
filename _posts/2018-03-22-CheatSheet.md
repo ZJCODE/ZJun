@@ -7,6 +7,8 @@ comments: true
 share: true
 ---
 
+This cheat sheet originated from the forum, credits to Laurent Poulain.
+
 ## Evaluation Rules
 
 - Call by value: evaluates the function arguments before calling the function
@@ -467,7 +469,6 @@ is equivalent to
 
 ---
 
-This cheat sheet originated from the forum, credits to Laurent Poulain.
 We copied it and changed or added a few things.
 There are certainly a lot of things that can be improved! If you would like to contribute, you have two options:
 
