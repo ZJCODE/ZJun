@@ -3,6 +3,8 @@ layout: post
 title: Scala CheetSheet
 date: 2018-3-21
 tags: [Spark]
+categories:
+- blog
 comments: true
 share: true
 ---
