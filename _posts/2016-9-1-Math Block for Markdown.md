@@ -4,6 +4,7 @@ title: Note：Math Block for Markdown
 tags: [Notes]
 comments: true
 share: true
+mathjax: true
 ---
 
 Code:[Inline Math Formula]
