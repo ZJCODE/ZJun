@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a student from School of Information,Renmin University of China. I am familiar with data mining and modeling by using Python,R and Matlab ,I also have strong analytical, creative problem solving and research skills as well as solid mathematics, probability and statistics foundation. I like to explore values and insights behind data, and love to implement some interesting ideas by coding. Meanwhile,I have a strong interest in philosophy and aesthetic.
+> Machine Learning \ Deep Learning \ Search & Recommendation
 
 ### Education
 - Jinhua No.1 High School，Zhejiang [2009-2012]
@@ -15,7 +15,7 @@ I am a student from School of Information,Renmin University of China. I am famil
 
 - NetEase
 
-	Data Mining and Machine Learning[2017]
+	Data Mining and Machine Learning[2017-Now]
 
 
 - Didi Chuxing
@@ -33,26 +33,9 @@ I am a student from School of Information,Renmin University of China. I am famil
 	In charge of integrating data in several media data platforms [2015]</p>
 
 
-### Project
-
-- Community Antispam Task (TianChi)
-	
-	We use unsupervised learning to solve this problem and develop an unique way to extract evolutionary feature,finally we got 2th in this competition.
-
-
-- Passenger Flow Prediction (TianChi)
-	
-	In this data comeptition , I used mean-method and time series model to predict the passenger flow in airport . Finally , I got 32th in this competition (total 3038 teams).
-
-- Link Prediction (Kaggle) 
-	
-	In this task , I used text mining , complex network , traditional machine learning algorithm and neural network model to predict the citation relation between papers. [Data Science Winter School Class Project（Tsinghua, Renmin and Ecole Polytechnique）
-
-
 ### Paper
 
 - A Neural Collaborative Filtering Model with Interaction-based Neighborhood(CIKM’17 , November 6–10, 2017, Singapore)
-
 
 
 ### Contact me
